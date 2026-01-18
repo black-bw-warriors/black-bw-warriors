@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+	<img src="Welcome-Header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
 
-<!--
-**black-bw-warriors/black-bw-warriors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="party-furby.gif" align="right" width="60">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](Under-Construction.gif)
+
+<br>
+
+![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](Windows95.gif)
+
+![](Flames.gif)
