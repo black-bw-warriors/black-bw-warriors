@@ -4,26 +4,16 @@
 	<br>
 </div>
 
-<img src="party-furby.gif" align="right" width="60">
-
 <br>
-
-![](Under-Construction.gif)
 
 <br>
 
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](Windows95.gif)
 
-![](Flames.gif)
-
-
 <!----------------------------------------------------------------------------------------------------------------------- Project BlackWarriors ----------------------------------------------------------------------------------------------------------------------------->
-
-<h3 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=&size=24&duration=4000&pause=1000&color=C56A90&center=true&vCenter=true&width=435&lines=I'M+NOT+FINISHED+PROJECT+YET">
-</h3>
-
-
+<p align="center">
+	<img align="center" alt="coding" width="700" src="Under-Construction.gif">
+</p>
 
 
 <table>
@@ -116,3 +106,7 @@ Made with ❤️ by the Black Warriors Team, around the World
 </td>
 </tr>
 </table>
+
+<!----------------------------------------------------------------------------------------------------------------------- Project BlackWarriors ----------------------------------------------------------------------------------------------------------------------------->
+
+![](Flames.gif)
