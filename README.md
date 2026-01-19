@@ -1,12 +1,4 @@
-<div align="center">
-	<img src="Welcome-Header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
-</div>
-
-<br>
-
-<br>
+![](BLACK_WARRIORS.gif)
 
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](Windows95.gif)
 
