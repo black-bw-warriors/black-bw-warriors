@@ -1,3 +1,5 @@
+<img align="center" alt="coding" width="1280" height="500" src="https://readme-typing-svg.demolab.com?font=&size=24&duration=2000&pause=500&color=979A15&center=true&vCenter=true&width=450&height=40&lines=HELLO+WORLD;WE+ARE;BLACK+WARRIORS">
+
 ![](BLACK_WARRIORS.gif)
 
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](Windows95.gif)
